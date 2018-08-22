@@ -1,0 +1,40 @@
+ 
+
+body{
+    background-color: #f4f7f8;
+}
+
+.main-page-top{
+    margin-top: 80px;
+}
+
+.card{
+    margin-top: 20px;
+    width: 230px;
+}
+
+.card-text{
+    margin-bottom: 5px;
+} 
+
+.meme-img{
+    border-radius: 8px;
+    border: 3px solid #d89797;
+}
+
+.share-button-point{
+    cursor: pointer;
+}
+.share-button-point:hover:not(:active) {
+    opacity: 0.75;
+}
+ 
+.meme-social-share{ 
+    margin-left: 15px;
+    text-align: center;
+}
+
+.card-body{
+    padding: 5px;
+    text-align: center;
+}

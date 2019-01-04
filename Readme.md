@@ -15,5 +15,4 @@ My MongoDB database is in MLab
 
 I have deploy my website where you can test Social media share functionality
 on Facebook, Twitter, Google+, Whatsapp and Tumblr
-
-Website URL : https://meme-gen.netlify.com/
+ 
